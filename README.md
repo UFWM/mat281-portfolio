@@ -1,5 +1,3 @@
-# Vicente Moreno
-
 <header>
 <img src="./images/utfsm.png" width=200 alt="UTFSM" align="left"/>
 <img src="./images/dmat.png" alt="DMAT" align="right"/>
@@ -13,6 +11,7 @@
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 ## Portafolio Personal
+Vicente Moreno
 
 ### Setup
 
