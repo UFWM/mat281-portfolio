@@ -11,7 +11,8 @@
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 ## Portafolio Personal
-Vicente Moreno
+Nombre: Vicente Moreno
+Rol: 202010507-3
 
 ### Setup
 
